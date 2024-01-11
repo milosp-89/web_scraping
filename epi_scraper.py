@@ -27,4 +27,4 @@ def epi_scraper(mail_to):
     except Exception as e:
         print(f"Error: {e}")
 
-epi_scraper()
+epi_scraper('someemail@gmail/yahoo.com')
