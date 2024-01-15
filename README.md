@@ -1,2 +1,2 @@
 # web_scraping
-misc scripts for web scraping
+misc scripts for web scraping and bot execution
